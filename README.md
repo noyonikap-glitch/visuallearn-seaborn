@@ -5,7 +5,7 @@ Perfect for **education**, **debugging**, **content creation**, or just understa
 
 ---
 
-## ✨ What It Does
+## What It Does
 
 - ✅ Visualizes **decision boundaries** as they evolve
 - 📉 Plots **loss curves** in real time
@@ -15,7 +15,7 @@ Perfect for **education**, **debugging**, **content creation**, or just understa
 
 ---
 
-## 📦 Currently Supports
+## Currently Supports
 
 - 🧠 **PyTorch** (MLPs with `nn.Linear`, `nn.ReLU`)
 - 🔢 **scikit-learn** classifiers with `.fit()` and `.predict()`
@@ -25,7 +25,7 @@ Perfect for **education**, **debugging**, **content creation**, or just understa
 
 ---
 
-## 🚀 Future Plans
+## Future Plans
 
 - 🖼️ Visualizing **CNN feature maps** and filters
 - 🔗 Support for **Transformers, RNNs, and custom activations**
@@ -35,7 +35,7 @@ Perfect for **education**, **debugging**, **content creation**, or just understa
 
 ---
 
-## 🎓 Use Cases
+## Use Cases
 
 - 🏫 Teaching machine learning concepts visually
 - 📊 Debugging model behavior, layer by layer
@@ -45,7 +45,7 @@ Perfect for **education**, **debugging**, **content creation**, or just understa
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### Basic Installation
 ```bash
@@ -74,7 +74,7 @@ cd visuallearn
 pip install -e .
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ```python
 import visuallearn as vl
