@@ -1,4 +1,4 @@
-# 🧠 ML Visualizer
+# VisualLearn
 
 A lightweight, intuitive tool for **visualizing how machine learning models learn — in real time.**  
 Perfect for **education**, **debugging**, **content creation**, or just understanding the magic under the hood.
