@@ -228,3 +228,5 @@ temp/
 tmp/
 cache/
 .cache/.venv/
+
+.claude
