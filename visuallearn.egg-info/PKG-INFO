@@ -26,10 +26,10 @@ License: MIT License
         LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
         OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
         SOFTWARE.
-Project-URL: Homepage, https://github.com/noyonika/visuallearn
-Project-URL: Bug Reports, https://github.com/noyonika/visuallearn/issues
-Project-URL: Source, https://github.com/noyonika/visuallearn
-Project-URL: Documentation, https://github.com/noyonika/visuallearn#readme
+Project-URL: Homepage, https://github.com/noyonikap-glitch/visuallearn
+Project-URL: Bug Reports, https://github.com/noyonikap-glitch/visuallearn/issues
+Project-URL: Source, https://github.com/noyonikap-glitch/visuallearn
+Project-URL: Documentation, https://github.com/noyonikap-glitch/visuallearn#readme
 Keywords: machine learning,visualization,decision boundaries,neural networks,deep learning,education
 Classifier: Development Status :: 4 - Beta
 Classifier: Intended Audience :: Developers
@@ -72,14 +72,14 @@ Dynamic: home-page
 Dynamic: license-file
 Dynamic: requires-python
 
-# 🧠 ML Visualizer
+# 🧠 VisualLearn
 
-A lightweight, intuitive tool for **visualizing how machine learning models learn — in real time.**  
-Perfect for **education**, **debugging**, **content creation**, or just understanding the magic under the hood.
+A lightweight, intuitive tool for **visualizing how machine learning models learn in real time.**  
+For **education**, **debugging**, **content creation**, or just understanding the working under the hood.
 
 ---
 
-## ✨ What It Does
+## What It Does
 
 - ✅ Visualizes **decision boundaries** as they evolve
 - 📉 Plots **loss curves** in real time
@@ -89,7 +89,7 @@ Perfect for **education**, **debugging**, **content creation**, or just understa
 
 ---
 
-## 📦 Currently Supports
+## Currently Supports
 
 - 🧠 **PyTorch** (MLPs with `nn.Linear`, `nn.ReLU`)
 - 🔢 **scikit-learn** classifiers with `.fit()` and `.predict()`
@@ -99,7 +99,7 @@ Perfect for **education**, **debugging**, **content creation**, or just understa
 
 ---
 
-## 🚀 Future Plans
+## Future Plans
 
 - 🖼️ Visualizing **CNN feature maps** and filters
 - 🔗 Support for **Transformers, RNNs, and custom activations**
@@ -109,7 +109,7 @@ Perfect for **education**, **debugging**, **content creation**, or just understa
 
 ---
 
-## 🎓 Use Cases
+## Use Cases
 
 - 🏫 Teaching machine learning concepts visually
 - 📊 Debugging model behavior, layer by layer
@@ -119,7 +119,7 @@ Perfect for **education**, **debugging**, **content creation**, or just understa
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### Basic Installation
 ```bash
